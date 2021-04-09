@@ -1,1 +1,1 @@
-## Classification of Twitter Text Project using Neural Network and Sentiment Analysis
+## Twitter Text Classification Project using Neural Network
