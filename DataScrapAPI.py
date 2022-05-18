@@ -16,14 +16,16 @@ import preprocessor as p
 import os
 import time
 
-#### Personal Twitter Dev Credentials
+# Personal Twitter Dev Credentials
+# developer.twitter.com
 api_key = "api_key"
 api_key_secret = "api_key_secret" 
 
 access_token = "access-token" 
 access_token_secret = "access-token-secret" 
-#### Obtain Details from Twitter Dev Website
+# Obtain Details from Twitter Dev Website
 
 auth = OAuthHandler(api_key, api_key_secret)
 auth.set_access_token(access_token, access_token_secret)
 api = tweepy.API(auth)
+
