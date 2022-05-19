@@ -1,6 +1,7 @@
 ## Twitter Text Classification Project using Neural Network
 
 > Created by Kelvin Kong
+
 > Last Modified May 18 2022
 
 #### Introduction
