@@ -1,6 +1,6 @@
 #### Twitter API for Extracting Twitter Text Data ####
 ### Created by Kelvin Kong ###
-### Last Modified on May 16 2022 ###
+### Last Modified on June 6 2022 ###
 
 ### We Use Twitter API v2 ###
 import tweepy

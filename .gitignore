@@ -1,0 +1,8 @@
+# Ignore Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# Ignore Mac OS files
+.DS_Store
+
+
+Archived/
