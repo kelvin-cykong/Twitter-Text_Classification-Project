@@ -3,6 +3,7 @@
 
 # Ignore Mac OS files
 .DS_Store
+Example/.DS_Store
 
 # Ignore Archives
 archived/*
