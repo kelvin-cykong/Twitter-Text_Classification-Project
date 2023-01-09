@@ -10,3 +10,6 @@ archived/*
 
 # Ignore Data
 data/*
+
+# Ignore API scripts
+API/*
